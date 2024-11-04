@@ -1,0 +1,137 @@
+[
+    {
+        "video_id": {
+            "kind": "youtube#video",
+            "videoId": "gD2OkMKU2v4"
+        },
+        "title": "Level up AI with Grounding with Google Search",
+        "description": "Follow along as Shrestha demonstrates how to use Grounding with Google Search in Google AI Studio. For more information ...",
+        "published_at": "2024-11-02T00:00:32Z",
+        "channel_title": "Google for Developers",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gD2OkMKU2v4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gD2OkMKU2v4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gD2OkMKU2v4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        }
+    },
+    {
+        "video_id": {
+            "kind": "youtube#video",
+            "videoId": "cLXa82DSUOA"
+        },
+        "title": "Introducing Grounding with Google Search",
+        "description": "Learn about the latest AI feature for developers. Stephanie and Shrestha explain the motivation to bring Grounding with Google ...",
+        "published_at": "2024-11-01T18:08:38Z",
+        "channel_title": "Google for Developers",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cLXa82DSUOA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cLXa82DSUOA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cLXa82DSUOA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        }
+    },
+    {
+        "video_id": {
+            "kind": "youtube#video",
+            "videoId": "1Ba0HQW2WP0"
+        },
+        "title": "Grounding with Google Search now in Google AI Studio and the Gemini API",
+        "description": "Google AI Studio and the Gemini API now offer Grounding with Google Search so you can get more accurate and fresh results.",
+        "published_at": "2024-10-31T18:00:15Z",
+        "channel_title": "Google for Developers",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1Ba0HQW2WP0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1Ba0HQW2WP0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1Ba0HQW2WP0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        }
+    },
+    {
+        "video_id": {
+            "kind": "youtube#video",
+            "videoId": "ilP_wjT6NaM"
+        },
+        "title": "Demo: Multi-modal Gemma: PaliGemma with Keras",
+        "description": "Diving into some of the multi-modal work at Google, we're going to take a deep look into Paligemma, a transformer-based ...",
+        "published_at": "2024-10-18T16:00:52Z",
+        "channel_title": "Google for Developers",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ilP_wjT6NaM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ilP_wjT6NaM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ilP_wjT6NaM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        }
+    },
+    {
+        "video_id": {
+            "kind": "youtube#video",
+            "videoId": "LrVe3Sqiks0"
+        },
+        "title": "Run AI locally, with Gemma!",
+        "description": "Gemma generative AI models let you download, run, and tune them to work the way you want, without using third party services.",
+        "published_at": "2024-10-11T04:00:14Z",
+        "channel_title": "Google for Developers",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LrVe3Sqiks0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LrVe3Sqiks0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LrVe3Sqiks0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        }
+    }
+]
