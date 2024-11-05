@@ -4,7 +4,7 @@ from airflow.models import Variable
 #some apis need permission(api_key) to access data.
 #step1: definining a function to get data from api
 def fetch_youtube_episodes (channel_id ,max_results=5):
-    api_key = Variable.get("YOUTUBE_API_KEY")
+    api_key = Variable.get("YOUR_API_KEY")
     url = "https://www.googleapis.com/youtube/v3/search"
     params = {
         "part" : "snippet",
